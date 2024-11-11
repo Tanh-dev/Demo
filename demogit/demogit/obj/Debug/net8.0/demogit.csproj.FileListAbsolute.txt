@@ -1,0 +1,14 @@
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\demogit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\demogit.AssemblyInfoInputs.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\demogit.AssemblyInfo.cs
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\demogit.csproj.CoreCompileInputs.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\bin\Debug\net8.0\demogit.exe
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\bin\Debug\net8.0\demogit.deps.json
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\bin\Debug\net8.0\demogit.runtimeconfig.json
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\bin\Debug\net8.0\demogit.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\bin\Debug\net8.0\demogit.pdb
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\demogit.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\refint\demogit.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\demogit.pdb
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\demogit.genruntimeconfig.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\demogit\demogit\demogit\obj\Debug\net8.0\ref\demogit.dll
